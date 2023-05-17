@@ -90,6 +90,7 @@ p {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  margin-bottom: 5px;
 }
 .control-group .control-label {
   margin-right: 5px;
