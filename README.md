@@ -1,4 +1,5 @@
 # Valorant-Ipsum
 
-link:
-https://hedibzz.github.io/valorant-ipsum/
+A Valorant themed text generator
+
+link: https://hedibzz.github.io/valorant-ipsum/
